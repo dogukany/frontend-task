@@ -39,7 +39,7 @@ const Header = () => {
     <header className="bg-primary flex flex-row items-center justify-center py-3">
       <span className="text-white text-2xl font-semibold w-1/6 ">
         <Link to={"/"}>
-          <p>Eteration</p>
+          <p>Store</p>
         </Link>
       </span>
       <div className="w-3/6 ">
