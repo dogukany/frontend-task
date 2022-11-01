@@ -1,11 +1,14 @@
 # Frontend task
 
-## Run
+![Alt text](screenshot.png "Store App")
 
-### Debug
+
+### Run
 
 ```bash
 npm install
 npm run start
 ```
+
+
 
